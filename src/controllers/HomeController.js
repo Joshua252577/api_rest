@@ -1,6 +1,9 @@
+import User from '../models/User';
+
 class HomeController {
   async index(req, res) {
-    res.json('Index');
+    const users = await User.findAll({ attributes: ['id', 'nome', 'email']});
+    res.json(users);
   }
 }
 
