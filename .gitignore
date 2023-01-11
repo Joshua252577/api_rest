@@ -7,3 +7,4 @@ pull-server.sh
 sync.sh
 db.sqlite
 .idea
+dist
