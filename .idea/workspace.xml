@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40b22978-1d46-4e96-98fc-fb8c5d0f3d82" name="Changes" comment="a" />
+    <list default="true" id="40b22978-1d46-4e96-98fc-fb8c5d0f3d82" name="Changes" comment="post">
+      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +14,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="338bc6ad-79cc-4a01-9a13-bb064103c2f7" />
+        <option name="url" value="https://github.com/Joshua252577/api_rest.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -94,7 +109,7 @@
       <updated>1673376748090</updated>
       <workItem from="1673376749666" duration="9000" />
       <workItem from="1673376842447" duration="3792000" />
-      <workItem from="1673457651736" duration="838000" />
+      <workItem from="1673457651736" duration="1517000" />
     </task>
     <task id="LOCAL-00001" summary="Alterações">
       <created>1673376905632</created>
@@ -194,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673458497021</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="post">
+      <created>1673458777448</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1673458777448</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,6 +250,7 @@
     <MESSAGE value="teste" />
     <MESSAGE value=".env" />
     <MESSAGE value="a" />
-    <option name="LAST_COMMIT_MESSAGE" value="a" />
+    <MESSAGE value="post" />
+    <option name="LAST_COMMIT_MESSAGE" value="post" />
   </component>
 </project>
