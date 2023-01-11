@@ -1,6 +1,8 @@
 import jwt from 'jsonwebtoken';
 import User from '../models/User';
+import dotenv from 'dotenv';
 
+dotenv.config();
 export default async (req, res, next) => {
   const { authorization } = req.headers;
 
