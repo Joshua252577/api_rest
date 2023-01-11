@@ -1,7 +1,7 @@
 import multer from 'multer';
 import multerConfig from '../config/multerConfig';
 
-import Foto from '../models/Foto';
+import Foto from '../models/foto';
 
 const upload = multer(multerConfig).single('foto');
 
